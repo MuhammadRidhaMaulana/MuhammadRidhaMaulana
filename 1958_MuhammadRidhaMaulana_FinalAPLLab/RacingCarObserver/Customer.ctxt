@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=observable\ username
+comment1.target=Customer(Observable,\ java.lang.String)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ buyDress()
+comment4.params=
+comment4.target=void\ unsubscribe()
+numComments=5
